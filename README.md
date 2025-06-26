@@ -75,6 +75,7 @@ This project applies time series modeling techniques to forecast the depletion o
 
 ---
 
-## 📄 License
+## 📄 Auto ARIMA Forecast Screenshot:
+![ozone pred](https://github.com/user-attachments/assets/aeaf0a7b-4e87-4a69-8bfb-66b7987b89b9)
 
-This project is for academic and educational purposes only.
+
