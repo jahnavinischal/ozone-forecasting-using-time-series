@@ -13,7 +13,7 @@ This project applies time series modeling techniques to forecast the depletion o
   - Year
   - Maximum ozone hole area (NASA)
   - Mean ozone hole area
-  - 
+  
 ---
 
 ## 🔧 Tools & Libraries
