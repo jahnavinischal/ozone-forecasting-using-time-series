@@ -13,8 +13,7 @@ This project applies time series modeling techniques to forecast the depletion o
   - Year
   - Maximum ozone hole area (NASA)
   - Mean ozone hole area
-  - ODS Consumption
-
+  - 
 ---
 
 ## 🔧 Tools & Libraries
@@ -67,15 +66,17 @@ This project applies time series modeling techniques to forecast the depletion o
 
 ---
 
+## 📄 Auto ARIMA Forecast Screenshot:
+![ozone pred](https://github.com/user-attachments/assets/aeaf0a7b-4e87-4a69-8bfb-66b7987b89b9)
+
+---
+
 ## 🚀 Future Enhancements
 
 - Add deep learning models (LSTM/GRU)
 - Incorporate external climate variables
 - Deploy as a Streamlit dashboard
 
----
 
-## 📄 Auto ARIMA Forecast Screenshot:
-![ozone pred](https://github.com/user-attachments/assets/aeaf0a7b-4e87-4a69-8bfb-66b7987b89b9)
 
 
